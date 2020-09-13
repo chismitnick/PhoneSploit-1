@@ -1,5 +1,5 @@
 # PhoneSploit
-## This tool will help you in the complete installation of PhoneSploit tool along with adbfiles.
+### This tool will help you in the complete installation of PhoneSploit tool along with adbfiles.
 
 ## Credits:
 1. Termux-ADB : https://github.com/MasterDevX/Termux-ADB
@@ -25,7 +25,7 @@ cd PhoneSploit
 bash ps.sh
 ```
 
-Then it will install all the required packages and abdfiles following by the launch of the tool.
+### Then it will install all the required packages and abdfiles following by the launch of the tool.
 ## Join Us :
 [![Github](https://img.shields.io/badge/Github-Follow-green?style=for-the-badge&logo=github)](https://github.com/geekykartik)
 

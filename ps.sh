@@ -38,7 +38,6 @@ git clone https://github.com/MasterDevX/Termux-ADB.git
 cd Termux-ADB
 chmod +x InstallTools.sh
 ./InstallTools.sh
-cd EHZ
 unzip PhoneSploit.zip
 rm PhoneSploit.zip
 cd PhoneSploit

@@ -40,5 +40,6 @@ chmod +x InstallTools.sh
 ./InstallTools.sh
 cd EHZ
 unzip PhoneSploit.zip
+rm PhoneSploit.zip
 cd PhoneSploit
 python2 main_linux.py

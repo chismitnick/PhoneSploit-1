@@ -44,6 +44,5 @@ cd
 cd PhoneSploit
 unzip PhoneSploit.zip
 rm PhoneSploit.zip
-cd PhoneSploit
 echo "   "
-echo "Now run python2 main_linux.py "
+echo "Now enter PhoneSploit directory by cd Phonesploit and run python2 main_linux.py "

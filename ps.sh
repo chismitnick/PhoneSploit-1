@@ -1,9 +1,11 @@
 #!/bin/bash
 
+# Coded by github.com/imvijayps
+# Copy with Credits
 # code
 
 echo '  '
-read -r -p "Are You Sure? [Y/n] " input
+read -r -p "Do you really want to install PhoneSploit tool [Y/n]" input
 
 case $input in
 
@@ -43,4 +45,5 @@ cd PhoneSploit
 unzip PhoneSploit.zip
 rm PhoneSploit.zip
 cd PhoneSploit
-python2 main_linux.py
+echo "   "
+echo "Now run python2 main_linux.py "
